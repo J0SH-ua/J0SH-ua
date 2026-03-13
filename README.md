@@ -18,8 +18,6 @@ You can find me on these platforms✨<br>
 
 ## 📊 GitHub Stats:
 
-![J0SH-ua's Stats](https://github-readme-stats.vercel.app/api?username=J0SH-ua&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![J0SH-ua's Streak](https://github-readme-streak-stats.herokuapp.com/?user=J0SH-ua&theme=vue-dark&hide_border=true)
-
-![J0SH-ua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0SH-ua&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[J0SH-ua's Stats](https://github-readme-stats.vercel.app/api?username=J0SH-ua&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[J0SH-ua's Streak](https://github-readme-streak-stats.herokuapp.com/?user=J0SH-ua&theme=vue-dark&hide_border=true)
+[J0SH-ua's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0SH-ua&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
